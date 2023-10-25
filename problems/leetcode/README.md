@@ -11,4 +11,5 @@ Below is a list of the problems already solved in the [Leetcode](https://leetcod
 | [189](189/) | Rotate Array | [Leetcode Link](https://leetcode.com/problems/rotate-array) | Algorithms | Easy |
 | [26](26/) | Remove Duplicates from Sorted Array | [Leetcode Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Algorithms | Easy |
 | [27](27/) | Remove Element | [Leetcode Link](https://leetcode.com/problems/remove-element) | Algorithms | Easy |
+| [80](80/) | Remove Duplicates from Sorted Array II | [Leetcode Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | Algorithms | Easy |
 | [88](88/) | Merge Sorted Array | [Leetcode Link](https://leetcode.com/problems/merge-sorted-array) | Algorithms | Easy |
