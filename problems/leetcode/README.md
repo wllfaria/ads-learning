@@ -8,4 +8,5 @@ Below is a list of the problems already solved in the [Leetcode](https://leetcod
 | [217](217/) | Contains Duplicate | [Leetcode Link](https://leetcode.com/problems/contains-duplicate) | Algorithms | Easy |
 | [242](242/) | Valid Anagram | [Leetcode Link](https://leetcode.com/problems/valid-anagram) | Algorithms | Easy |
 | [169](169/) | Majority Element | [Leetcode Link](https://leetcode.com/problems/majority-element) | Algorithms | Easy |
+| [189](189/) | Rotate Array | [Leetcode Link](https://leetcode.com/problems/rotate-array) | Algorithms | Easy |
 | [88](88/) | Merge Sorted Array | [Leetcode Link](https://leetcode.com/problems/merge-sorted-array) | Algorithms | Easy |
