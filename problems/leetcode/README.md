@@ -13,3 +13,4 @@ Below is a list of the problems already solved in the [Leetcode](https://leetcod
 | [27](27/) | Remove Element | [Leetcode Link](https://leetcode.com/problems/remove-element) | Algorithms | Easy |
 | [80](80/) | Remove Duplicates from Sorted Array II | [Leetcode Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | Algorithms | Easy |
 | [88](88/) | Merge Sorted Array | [Leetcode Link](https://leetcode.com/problems/merge-sorted-array) | Algorithms | Easy |
+| [121](121/) | Best Time to Buy and Sell Stock | [Leetcode Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Algorithms | Easy |
