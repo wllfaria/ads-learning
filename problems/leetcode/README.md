@@ -9,4 +9,5 @@ Below is a list of the problems already solved in the [Leetcode](https://leetcod
 | [242](242/) | Valid Anagram | [Leetcode Link](https://leetcode.com/problems/valid-anagram) | Algorithms | Easy |
 | [169](169/) | Majority Element | [Leetcode Link](https://leetcode.com/problems/majority-element) | Algorithms | Easy |
 | [189](189/) | Rotate Array | [Leetcode Link](https://leetcode.com/problems/rotate-array) | Algorithms | Easy |
+| [26](26/) | Remove Duplicates from Sorted Array | [Leetcode Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Algorithms | Easy |
 | [88](88/) | Merge Sorted Array | [Leetcode Link](https://leetcode.com/problems/merge-sorted-array) | Algorithms | Easy |
