@@ -16,3 +16,4 @@ Below is a list of the problems already solved in the [Leetcode](https://leetcod
 | [121](121/) | Best Time to Buy and Sell Stock | [Leetcode Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Algorithms | Easy |
 | [122](122/) | Best Time to Buy and Sell Stock II | [Leetcode Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | Algorithms | Easy |
 | [55](55/) | Jump Game | [Leetcode Link](https://leetcode.com/problems/jump-game) | Algorithms | Easy |
+| [13](13/) | Roman to Integer | [Leetcode Link](https://leetcode.com/problems/roman-to-integer) | Algorithms | Easy |
