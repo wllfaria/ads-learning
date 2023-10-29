@@ -7,10 +7,14 @@ public:
         int j = s.size() - 1;
 
         while (i <= j) {
-            if (!isalnum(s[i]))
+            if (!isalnum(s[i])) {
+                i++;
                 continue;
-            if (!isalnum(s[j]))
+            }
+            if (!isalnum(s[j])) {
+                j--;
                 continue;
+            }
             if (tolower(s[i]) != tolower(s[j]))
                 return false;
             else {
