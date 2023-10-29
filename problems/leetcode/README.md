@@ -18,3 +18,4 @@ Below is a list of the problems already solved in the [Leetcode](https://leetcod
 | [55](55/) | Jump Game | [Leetcode Link](https://leetcode.com/problems/jump-game) | Algorithms | Easy |
 | [13](13/) | Roman to Integer | [Leetcode Link](https://leetcode.com/problems/roman-to-integer) | Algorithms | Easy |
 | [14](14/) | Longest Common Prefix | [Leetcode Link](https://leetcode.com/problems/longest-common-prefix) | Algorithms | Easy |
+| [28](28/) | Find the Index of the First Occurrence in a String | [Leetcode Link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | Algorithms | Easy |
