@@ -21,3 +21,4 @@ Below is a list of the problems already solved in the [Leetcode](https://leetcod
 | [28](28/) | Find the Index of the First Occurrence in a String | [Leetcode Link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | Algorithms | Easy |
 | [392](392/) | Is Subsequence | [Leetcode Link](https://leetcode.com/problems/is-subsequence) | Algorithms | Easy |
 | [11](11/) | Container With Most Water | [Leetcode Link](https://leetcode.com/problems/container-with-most-water) | Algorithms | Easy |
+| [383](383/) | Ransom Note | [Leetcode Link](https://leetcode.com/problems/ransom-note) | Algorithms | Easy |
