@@ -25,3 +25,4 @@ Below is a list of the problems already solved in the [Leetcode](https://leetcod
 | [1356](1356/) | Minimum Number of Moves to Make Palindrome | [Leetcode Link](https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome) | Algorithms | Easy |
 | [45](45/) | Jump Game II | [Leetcode Link](https://leetcode.com/problems/jump-game-ii) | Algorithms | Easy |
 | [274](274/) | H-Index | [Leetcode Link](https://leetcode.com/problems/h-index) | Algorithms | Easy |
+| [155](155/) | Min Stack | [Leetcode Link](https://leetcode.com/problems/min-stack) | Algorithms | Easy |
