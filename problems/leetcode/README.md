@@ -32,3 +32,5 @@ Below is a list of the problems already solved in the [Leetcode](https://leetcod
 | [268](268-missing-number/) | Missing Number | [Leetcode Link](https://leetcode.com/problems/missing-number) | Algorithms | Easy |
 | [252](252-meeting-rooms/) | Meeting Rooms | [Leetcode Link](https://leetcode.com/problems/meeting-rooms) | Algorithms | Easy |
 | [252](252-meeting-rooms/) | Meeting Rooms | [Leetcode Link](https://leetcode.com/problems/meeting-rooms) | Algorithms | Easy |
+| [252](252-meeting-rooms/) | Meeting Rooms | [Leetcode Link](https://leetcode.com/problems/meeting-rooms) | Algorithms | Easy |
+| [704](704-binary-search/) | Binary Search | [Leetcode Link](https://leetcode.com/problems/binary-search) | Algorithms | Easy |

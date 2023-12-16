@@ -37,8 +37,8 @@ class LeetcodeFetcher(Fetcher):
             "stat_status_pairs"
         ]
         for problem in payload:
-            problems[str(problem["stat"]["question_id"])] = Problem(
-                id=problem["stat"]["question_id"],
+            problems[str(problem["stat"]["frontend_question_id"])] = Problem(
+                id=problem["stat"]["frontend_question_id"],
                 title=problem["stat"]["question__title"],
                 slug=problem["stat"]["question__title_slug"],
                 difficulty=self._difficulty_mapper(problem["difficulty"]["level"]),
