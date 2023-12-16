@@ -59,7 +59,7 @@ class Main:
                         description = fetcher.fetch_problem_description(problem)
                         if not description:
                             logger.info(
-                                "No description for problem {problem.title}, skipping"
+                                f"No description for problem {problem.title}, skipping"
                             )
                         else:
                             logger.verbose_info(
@@ -78,7 +78,7 @@ class Main:
                             args,
                         )
                         updated_problems.append(problem)
-                        logger.verbose_info(f"Sleeping for 1 second", args)
+                        logger.verbose_info("Sleeping for 1 second", args)
                         sleep(1)
 
                     logger.success(f"Finished updating all descriptions")
@@ -125,7 +125,6 @@ class Main:
         parsed_args: dict[str, bool] = {}
 
         if len(sys.argv) == 1:
-            # prompt user if it wants to run in debug, verbose or normal mode
             print("Choose a mode:")
             print("1. Normal")
             print("2. Debug")
