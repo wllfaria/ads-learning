@@ -57,15 +57,21 @@ class Main:
                         )
 
                         description = fetcher.fetch_problem_description(problem)
-                        logger.verbose_info(
-                            f"Fetched description for problem {problem.title}", args
-                        )
-                        problem.description = html_parser.to_markdown(description)
-                        logger.verbose_info(
-                            f"Parsed html to markdown for problem {problem.title}", args
-                        )
+                        if not description:
+                            logger.info(
+                                "No description for problem {problem.title}, skipping"
+                            )
+                        else:
+                            logger.verbose_info(
+                                f"Fetched description for problem {problem.title}", args
+                            )
+                            problem.description = html_parser.to_markdown(description)
+                            logger.verbose_info(
+                                f"Parsed html to markdown for problem {problem.title}",
+                                args,
+                            )
 
-                        file_system.update_problem_description(platform, problem)
+                            file_system.update_problem_description(platform, problem)
                         problem_end = time()
                         logger.debug_success(
                             f"Updated problem {problem.title} description, took {problem_end - problem_start:.2f}s",

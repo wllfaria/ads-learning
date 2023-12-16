@@ -56,6 +56,7 @@ class LeetcodeFetcher(Fetcher):
             "variables": {"titleSlug": problem.slug},
         }
         problem_content = requests.post(self._graphql_url, json=query)
+        print(problem.slug)
         return problem_content.json()["data"]["question"]["content"]
 
     def fetch_problem_category(self, problem: Problem) -> str:
