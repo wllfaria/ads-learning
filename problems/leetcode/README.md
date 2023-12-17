@@ -34,3 +34,6 @@ Below is a list of the problems already solved in the [Leetcode](https://leetcod
 | [252](252-meeting-rooms/) | Meeting Rooms | [Leetcode Link](https://leetcode.com/problems/meeting-rooms) | Algorithms | Easy |
 | [252](252-meeting-rooms/) | Meeting Rooms | [Leetcode Link](https://leetcode.com/problems/meeting-rooms) | Algorithms | Easy |
 | [704](704-binary-search/) | Binary Search | [Leetcode Link](https://leetcode.com/problems/binary-search) | Algorithms | Easy |
+| [1768](1768-merge-strings-alternately/) | Merge Strings Alternately | [Leetcode Link](https://leetcode.com/problems/merge-strings-alternately) | Algorithms | Easy |
+| [252](252-meeting-rooms/) | Meeting Rooms | [Leetcode Link](https://leetcode.com/problems/meeting-rooms) | Algorithms | Easy |
+| [252](252-meeting-rooms/) | Meeting Rooms | [Leetcode Link](https://leetcode.com/problems/meeting-rooms) | Algorithms | Easy |

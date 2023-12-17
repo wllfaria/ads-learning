@@ -55,7 +55,10 @@ class LeetcodeFetcher(Fetcher):
             "operationName": "questionContent",
             "variables": {"titleSlug": problem.slug},
         }
-        problem_content = requests.post(self._graphql_url, json=query)
+        session = {
+            "LEETCODE_SESSION": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJfYXV0aF91c2VyX2lkIjoiMzY2Nzg1OCIsIl9hdXRoX3VzZXJfYmFja2VuZCI6ImRqYW5nby5jb250cmliLmF1dGguYmFja2VuZHMuTW9kZWxCYWNrZW5kIiwiX2F1dGhfdXNlcl9oYXNoIjoiYWYzOWU2ODQ1MTNmZmZiZmM2OTMwN2U1NGQ4ZmQ2YWZiYWI3Zjk1ZDlhYTk0M2I1MGM2OWY0NmEzMzhlMTVmMiIsImlkIjozNjY3ODU4LCJlbWFpbCI6ImRldi53aWxsaWFucy5mYXJpYUBnbWFpbC5jb20iLCJ1c2VybmFtZSI6IndsbGZhcmlhIiwidXNlcl9zbHVnIjoid2xsZmFyaWEiLCJhdmF0YXIiOiJodHRwczovL2Fzc2V0cy5sZWV0Y29kZS5jb20vdXNlcnMvYXZhdGFycy9hdmF0YXJfMTY5NjYxNzM3OC5wbmciLCJyZWZyZXNoZWRfYXQiOjE3MDI3NjE5OTAsImlwIjoiMjgwNDo0MzE6YzdjMDo4ODJjOjVjMGM6ODY5Njo3YWJjOmMzYzMiLCJpZGVudGl0eSI6IjNkODdjZjAyMjAwYjQ3YTk0Y2JiMWY2YTk3YzcwMDM3Iiwic2Vzc2lvbl9pZCI6NTE1NTE5MjAsIl9zZXNzaW9uX2V4cGlyeSI6MTIwOTYwMH0.Q3tVmGvLLPG90MyOFBaHAb06VEt-rqjZIQPyZEYhZWE;"
+        }
+        problem_content = requests.post(self._graphql_url, json=query, cookies=session)
         return problem_content.json()["data"]["question"]["content"]
 
     def fetch_problem_category(self, problem: Problem) -> str:
