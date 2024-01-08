@@ -40,3 +40,4 @@ Below is a list of the problems already solved in the [Leetcode](https://leetcod
 | [238](238-product-of-array-except-self/)                     | Product of Array Except Self                       | [Leetcode Link](https://leetcode.com/problems/product-of-array-except-self)                       | Algorithms | Medium     |
 | [20](20-valid-parentheses/)                                  | Valid Parentheses                                  | [Leetcode Link](https://leetcode.com/problems/valid-parentheses)                                  | Algorithms | Easy       |
 | [938](938-range-sum-of-bst/) | Range Sum of BST | [Leetcode Link](https://leetcode.com/problems/range-sum-of-bst) | Algorithms | Easy |
+| [134](134-gas-station/) | Gas Station | [Leetcode Link](https://leetcode.com/problems/gas-station) | Algorithms | Medium |
