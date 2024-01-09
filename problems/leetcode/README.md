@@ -47,3 +47,4 @@ Below is a list of the problems already solved in the [Leetcode](https://leetcod
 | [102](102-binary-tree-level-order-traversal/) | Binary Tree Level Order Traversal | [Leetcode Link](https://leetcode.com/problems/binary-tree-level-order-traversal) | Algorithms | Medium |
 | [103](103-binary-tree-zigzag-level-order-traversal/) | Binary Tree Zigzag Level Order Traversal | [Leetcode Link](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | Algorithms | Medium |
 | [71](71-simplify-path/) | Simplify Path | [Leetcode Link](https://leetcode.com/problems/simplify-path) | Algorithms | Medium |
+| [150](150-evaluate-reverse-polish-notation/) | Evaluate Reverse Polish Notation | [Leetcode Link](https://leetcode.com/problems/evaluate-reverse-polish-notation) | Algorithms | Medium |
