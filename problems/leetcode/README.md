@@ -43,3 +43,4 @@ Below is a list of the problems already solved in the [Leetcode](https://leetcod
 | [134](134-gas-station/) | Gas Station | [Leetcode Link](https://leetcode.com/problems/gas-station) | Algorithms | Medium |
 | [135](135-candy/) | Candy | [Leetcode Link](https://leetcode.com/problems/candy) | Algorithms | Hard |
 | [199](199-binary-tree-right-side-view/) | Binary Tree Right Side View | [Leetcode Link](https://leetcode.com/problems/binary-tree-right-side-view) | Algorithms | Medium |
+| [637](637-average-of-levels-in-binary-tree/) | Average of Levels in Binary Tree | [Leetcode Link](https://leetcode.com/problems/average-of-levels-in-binary-tree) | Algorithms | Easy |
