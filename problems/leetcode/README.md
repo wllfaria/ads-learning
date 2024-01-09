@@ -42,3 +42,4 @@ Below is a list of the problems already solved in the [Leetcode](https://leetcod
 | [938](938-range-sum-of-bst/) | Range Sum of BST | [Leetcode Link](https://leetcode.com/problems/range-sum-of-bst) | Algorithms | Easy |
 | [134](134-gas-station/) | Gas Station | [Leetcode Link](https://leetcode.com/problems/gas-station) | Algorithms | Medium |
 | [135](135-candy/) | Candy | [Leetcode Link](https://leetcode.com/problems/candy) | Algorithms | Hard |
+| [199](199-binary-tree-right-side-view/) | Binary Tree Right Side View | [Leetcode Link](https://leetcode.com/problems/binary-tree-right-side-view) | Algorithms | Medium |
