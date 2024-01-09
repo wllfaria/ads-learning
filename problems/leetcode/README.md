@@ -1,6 +1,6 @@
 # Leetcode Problems
 
-Below is a list of the problems already solved in the [Leetcode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) website:
+Below is a list of the problems already solved in the [Leetcode](https://leetcode.com/problems) website:
 
 | ID                                                           | Problem Title                                      | Link                                                                                              | Category   | Difficulty |
 | ------------------------------------------------------------ | -------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------- | ---------- |
@@ -48,3 +48,4 @@ Below is a list of the problems already solved in the [Leetcode](https://leetcod
 | [103](103-binary-tree-zigzag-level-order-traversal/) | Binary Tree Zigzag Level Order Traversal | [Leetcode Link](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | Algorithms | Medium |
 | [71](71-simplify-path/) | Simplify Path | [Leetcode Link](https://leetcode.com/problems/simplify-path) | Algorithms | Medium |
 | [150](150-evaluate-reverse-polish-notation/) | Evaluate Reverse Polish Notation | [Leetcode Link](https://leetcode.com/problems/evaluate-reverse-polish-notation) | Algorithms | Medium |
+| [2](2-add-two-numbers/) | Add Two Numbers | [Leetcode Link](https://leetcode.com/problems/add-two-numbers) | Algorithms | Medium |
