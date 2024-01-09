@@ -1,6 +1,9 @@
-# Coding Interview Preparation
+# Coding problems
 
-## Disclaimer
-If you just got here wondering what is this, this is a repository dedicated to learn and practice algorithms and data structures. Aswell as many other computer science related topics. This is still in a very early stage, as I myself am going through this path.
-
-Please [refer to the project section](https://github.com/users/wllfaria/projects/2) for a comprehensive list of topics with resources to learn and practice exercises attached.
+This repository contains almost every algorithm problem I've solved on various
+platforms, from Leetcode to Codeforces. You will find the solutions in various
+languages as a lot of the times I use those problems to also learn something
+about a new language. Although most of the time I'll try to use Rust, but
+sometimes its just really weird to solve certain problems with Rust so in those
+cases you can expect Javascript, C++ or something else that I'm interested at
+the moment.
