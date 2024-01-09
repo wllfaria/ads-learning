@@ -46,3 +46,4 @@ Below is a list of the problems already solved in the [Leetcode](https://leetcod
 | [637](637-average-of-levels-in-binary-tree/) | Average of Levels in Binary Tree | [Leetcode Link](https://leetcode.com/problems/average-of-levels-in-binary-tree) | Algorithms | Easy |
 | [102](102-binary-tree-level-order-traversal/) | Binary Tree Level Order Traversal | [Leetcode Link](https://leetcode.com/problems/binary-tree-level-order-traversal) | Algorithms | Medium |
 | [103](103-binary-tree-zigzag-level-order-traversal/) | Binary Tree Zigzag Level Order Traversal | [Leetcode Link](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | Algorithms | Medium |
+| [71](71-simplify-path/) | Simplify Path | [Leetcode Link](https://leetcode.com/problems/simplify-path) | Algorithms | Medium |
