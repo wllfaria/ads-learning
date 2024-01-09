@@ -45,3 +45,4 @@ Below is a list of the problems already solved in the [Leetcode](https://leetcod
 | [199](199-binary-tree-right-side-view/) | Binary Tree Right Side View | [Leetcode Link](https://leetcode.com/problems/binary-tree-right-side-view) | Algorithms | Medium |
 | [637](637-average-of-levels-in-binary-tree/) | Average of Levels in Binary Tree | [Leetcode Link](https://leetcode.com/problems/average-of-levels-in-binary-tree) | Algorithms | Easy |
 | [102](102-binary-tree-level-order-traversal/) | Binary Tree Level Order Traversal | [Leetcode Link](https://leetcode.com/problems/binary-tree-level-order-traversal) | Algorithms | Medium |
+| [103](103-binary-tree-zigzag-level-order-traversal/) | Binary Tree Zigzag Level Order Traversal | [Leetcode Link](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | Algorithms | Medium |
