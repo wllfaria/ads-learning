@@ -50,3 +50,4 @@ Below is a list of the problems already solved in the [Leetcode](https://leetcod
 | [150](150-evaluate-reverse-polish-notation/) | Evaluate Reverse Polish Notation | [Leetcode Link](https://leetcode.com/problems/evaluate-reverse-polish-notation) | Algorithms | Medium |
 | [2](2-add-two-numbers/) | Add Two Numbers | [Leetcode Link](https://leetcode.com/problems/add-two-numbers) | Algorithms | Medium |
 | [61](61-rotate-list/) | Rotate List | [Leetcode Link](https://leetcode.com/problems/rotate-list) | Algorithms | Medium |
+| [230](230-kth-smallest-element-in-a-bst/) | Kth Smallest Element in a BST | [Leetcode Link](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | Algorithms | Medium |
