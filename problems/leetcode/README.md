@@ -56,3 +56,4 @@ Below is a list of the problems already solved in the [Leetcode](https://leetcod
 | [226](226-invert-binary-tree/) | Invert Binary Tree | [Leetcode Link](https://leetcode.com/problems/invert-binary-tree) | Algorithms | Easy |
 | [101](101-symmetric-tree/) | Symmetric Tree | [Leetcode Link](https://leetcode.com/problems/symmetric-tree) | Algorithms | Easy |
 | [114](114-flatten-binary-tree-to-linked-list/) | Flatten Binary Tree to Linked List | [Leetcode Link](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) | Algorithms | Medium |
+| [48](48-rotate-image/) | Rotate Image | [Leetcode Link](https://leetcode.com/problems/rotate-image) | Algorithms | Medium |
