@@ -51,3 +51,4 @@ Below is a list of the problems already solved in the [Leetcode](https://leetcod
 | [2](2-add-two-numbers/) | Add Two Numbers | [Leetcode Link](https://leetcode.com/problems/add-two-numbers) | Algorithms | Medium |
 | [61](61-rotate-list/) | Rotate List | [Leetcode Link](https://leetcode.com/problems/rotate-list) | Algorithms | Medium |
 | [230](230-kth-smallest-element-in-a-bst/) | Kth Smallest Element in a BST | [Leetcode Link](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | Algorithms | Medium |
+| [98](98-validate-binary-search-tree/) | Validate Binary Search Tree | [Leetcode Link](https://leetcode.com/problems/validate-binary-search-tree) | Algorithms | Medium |
