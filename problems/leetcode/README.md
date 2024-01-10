@@ -53,3 +53,4 @@ Below is a list of the problems already solved in the [Leetcode](https://leetcod
 | [230](230-kth-smallest-element-in-a-bst/) | Kth Smallest Element in a BST | [Leetcode Link](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | Algorithms | Medium |
 | [98](98-validate-binary-search-tree/) | Validate Binary Search Tree | [Leetcode Link](https://leetcode.com/problems/validate-binary-search-tree) | Algorithms | Medium |
 | [104](104-maximum-depth-of-binary-tree/) | Maximum Depth of Binary Tree | [Leetcode Link](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Algorithms | Easy |
+| [226](226-invert-binary-tree/) | Invert Binary Tree | [Leetcode Link](https://leetcode.com/problems/invert-binary-tree) | Algorithms | Easy |
