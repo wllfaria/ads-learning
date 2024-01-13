@@ -9,8 +9,5 @@ venv
 Cargo.*
 target
 Pipfile
-
-
-# Added by cargo
-
 /target
+ltc.sh

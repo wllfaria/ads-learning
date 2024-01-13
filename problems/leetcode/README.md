@@ -61,3 +61,4 @@ Below is a list of the problems already solved in the [Leetcode](https://leetcod
 | [21](21-merge-two-sorted-lists/) | Merge Two Sorted Lists | [Leetcode Link](https://leetcode.com/problems/merge-two-sorted-lists) | Algorithms | Easy |
 | [1](1-two-sum/) | Two Sum | [Leetcode Link](https://leetcode.com/problems/two-sum) | Algorithms | Easy |
 | [112](112-path-sum/) | Path Sum | [Leetcode Link](https://leetcode.com/problems/path-sum) | Algorithms | Easy |
+| [202](202-happy-number/) | Happy Number | [Leetcode Link](https://leetcode.com/problems/happy-number) | Algorithms | Easy |
