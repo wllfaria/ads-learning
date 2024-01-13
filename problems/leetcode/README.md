@@ -59,3 +59,4 @@ Below is a list of the problems already solved in the [Leetcode](https://leetcod
 | [48](48-rotate-image/) | Rotate Image | [Leetcode Link](https://leetcode.com/problems/rotate-image) | Algorithms | Medium |
 | [228](228-summary-ranges/) | Summary Ranges | [Leetcode Link](https://leetcode.com/problems/summary-ranges) | Algorithms | Easy |
 | [21](21-merge-two-sorted-lists/) | Merge Two Sorted Lists | [Leetcode Link](https://leetcode.com/problems/merge-two-sorted-lists) | Algorithms | Easy |
+| [1](1-two-sum/) | Two Sum | [Leetcode Link](https://leetcode.com/problems/two-sum) | Algorithms | Easy |
