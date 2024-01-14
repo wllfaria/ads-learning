@@ -66,3 +66,4 @@ Below is a list of the problems already solved in the [Leetcode](https://leetcod
 | [290](290-word-pattern/) | Word Pattern | [Leetcode Link](https://leetcode.com/problems/word-pattern) | Algorithms | Easy |
 | [141](141-linked-list-cycle/) | Linked List Cycle | [Leetcode Link](https://leetcode.com/problems/linked-list-cycle) | Algorithms | Easy |
 | [222](222-count-complete-tree-nodes/) | Count Complete Tree Nodes | [Leetcode Link](https://leetcode.com/problems/count-complete-tree-nodes) | Algorithms | Easy |
+| [530](530-minimum-absolute-difference-in-bst/) | Minimum Absolute Difference in BST | [Leetcode Link](https://leetcode.com/problems/minimum-absolute-difference-in-bst) | Algorithms | Easy |
