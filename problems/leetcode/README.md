@@ -68,3 +68,4 @@ Below is a list of the problems already solved in the [Leetcode](https://leetcod
 | [222](222-count-complete-tree-nodes/) | Count Complete Tree Nodes | [Leetcode Link](https://leetcode.com/problems/count-complete-tree-nodes) | Algorithms | Easy |
 | [530](530-minimum-absolute-difference-in-bst/) | Minimum Absolute Difference in BST | [Leetcode Link](https://leetcode.com/problems/minimum-absolute-difference-in-bst) | Algorithms | Easy |
 | [108](108-convert-sorted-array-to-binary-search-tree/) | Convert Sorted Array to Binary Search Tree | [Leetcode Link](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | Algorithms | Easy |
+| [35](35-search-insert-position/) | Search Insert Position | [Leetcode Link](https://leetcode.com/problems/search-insert-position) | Algorithms | Easy |
