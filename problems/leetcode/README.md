@@ -71,3 +71,4 @@ Below is a list of the problems already solved in the [Leetcode](https://leetcod
 | [35](35-search-insert-position/) | Search Insert Position | [Leetcode Link](https://leetcode.com/problems/search-insert-position) | Algorithms | Easy |
 | [67](67-add-binary/) | Add Binary | [Leetcode Link](https://leetcode.com/problems/add-binary) | Algorithms | Easy |
 | [190](190-reverse-bits/) | Reverse Bits | [Leetcode Link](https://leetcode.com/problems/reverse-bits) | Algorithms | Easy |
+| [209](209-minimum-size-subarray-sum/) | Minimum Size Subarray Sum | [Leetcode Link](https://leetcode.com/problems/minimum-size-subarray-sum) | Algorithms | Medium |
