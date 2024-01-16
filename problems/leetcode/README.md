@@ -72,3 +72,4 @@ Below is a list of the problems already solved in the [Leetcode](https://leetcod
 | [67](67-add-binary/) | Add Binary | [Leetcode Link](https://leetcode.com/problems/add-binary) | Algorithms | Easy |
 | [190](190-reverse-bits/) | Reverse Bits | [Leetcode Link](https://leetcode.com/problems/reverse-bits) | Algorithms | Easy |
 | [209](209-minimum-size-subarray-sum/) | Minimum Size Subarray Sum | [Leetcode Link](https://leetcode.com/problems/minimum-size-subarray-sum) | Algorithms | Medium |
+| [3](3-longest-substring-without-repeating-characters/) | Longest Substring Without Repeating Characters | [Leetcode Link](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Algorithms | Medium |
