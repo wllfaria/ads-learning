@@ -74,3 +74,4 @@ Below is a list of the problems already solved in the [Leetcode](https://leetcod
 | [209](209-minimum-size-subarray-sum/) | Minimum Size Subarray Sum | [Leetcode Link](https://leetcode.com/problems/minimum-size-subarray-sum) | Algorithms | Medium |
 | [3](3-longest-substring-without-repeating-characters/) | Longest Substring Without Repeating Characters | [Leetcode Link](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Algorithms | Medium |
 | [1207](1207-unique-number-of-occurrences/) | Unique Number of Occurrences | [Leetcode Link](https://leetcode.com/problems/unique-number-of-occurrences) | Algorithms | Easy |
+| [36](36-valid-sudoku/) | Valid Sudoku | [Leetcode Link](https://leetcode.com/problems/valid-sudoku) | Algorithms | Medium |
