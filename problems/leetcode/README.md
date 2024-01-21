@@ -78,3 +78,4 @@ Below is a list of the problems already solved in the [Leetcode](https://leetcod
 | [289](289-game-of-life/) | Game of Life | [Leetcode Link](https://leetcode.com/problems/game-of-life) | Algorithms | Medium |
 | [128](128-longest-consecutive-sequence/) | Longest Consecutive Sequence | [Leetcode Link](https://leetcode.com/problems/longest-consecutive-sequence) | Algorithms | Medium |
 | [19](19-remove-nth-node-from-end-of-list/) | Remove Nth Node From End of List | [Leetcode Link](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | Algorithms | Medium |
+| [82](82-remove-duplicates-from-sorted-list-ii/) | Remove Duplicates from Sorted List II | [Leetcode Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | Algorithms | Medium |
