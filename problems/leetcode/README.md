@@ -80,3 +80,4 @@ Below is a list of the problems already solved in the [Leetcode](https://leetcod
 | [19](19-remove-nth-node-from-end-of-list/) | Remove Nth Node From End of List | [Leetcode Link](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | Algorithms | Medium |
 | [82](82-remove-duplicates-from-sorted-list-ii/) | Remove Duplicates from Sorted List II | [Leetcode Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | Algorithms | Medium |
 | [73](73-set-matrix-zeroes/) | Set Matrix Zeroes | [Leetcode Link](https://leetcode.com/problems/set-matrix-zeroes) | Algorithms | Medium |
+| [129](129-sum-root-to-leaf-numbers/) | Sum Root to Leaf Numbers | [Leetcode Link](https://leetcode.com/problems/sum-root-to-leaf-numbers) | Algorithms | Medium |
