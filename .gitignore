@@ -6,8 +6,7 @@ venv
 .vs/
 *.sln
 *.vcxproj*
-Cargo.*
+Cargo.lock
 target
 Pipfile
 /target
-ltc.sh

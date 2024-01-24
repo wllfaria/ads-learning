@@ -1,0 +1,42 @@
+#!/bin/bash
+
+lc="./problems/leetcode"
+cf="./problems/codeforces"
+
+problems=()
+
+# lc_problems=$(find "$ltc" -type d | grep -E -v ".*-.*" | tail -n 1)
+lc_problems=$(find "$lc" -type d | grep -E -v ".*-.*" | sed "1d")
+cf_problems=$(find "$cf" -type d | grep -E -v ".*-.*" | sed "1d")
+
+for problem in $lc_problems; do
+    problems+=("$problem")
+done
+
+for problem in $cf_problems; do
+    problems+=("$problem")
+done
+
+
+for dir in "${problems[@]}"; do
+    plat=$(dirname "$dir")
+
+    echo "----"
+    echo "$(basename "$plat")-$(basename "$dir"):"
+
+    for file in "$dir"/*; do
+        filename=$(basename "$file")
+
+        if [[ $filename == *".js"* ]]; then
+            node "$file"
+        elif [[ $filename == *".cpp"* ]]; then
+            g++ "$file" -o "$cur/solution.out"
+            "$cur/solution.out"
+            rm "$cur/solution.out"
+        elif [[ $filename == *".rs"* ]]; then
+            sed -i '/path = /c\path = "'"$file"'"' Cargo.toml
+            cargo run
+        fi
+    done
+done
+
