@@ -5,7 +5,6 @@ cf="./problems/codeforces"
 
 problems=()
 
-# lc_problems=$(find "$ltc" -type d | grep -E -v ".*-.*" | tail -n 1)
 lc_problems=$(find "$lc" -type d | grep -E -v ".*-.*" | sed "1d")
 cf_problems=$(find "$cf" -type d | grep -E -v ".*-.*" | sed "1d")
 
@@ -16,6 +15,11 @@ done
 for problem in $cf_problems; do
     problems+=("$problem")
 done
+
+if [ ${#problems[@]} -eq 0 ]; then
+    echo "No problems found."
+    exit 0
+fi
 
 
 for dir in "${problems[@]}"; do

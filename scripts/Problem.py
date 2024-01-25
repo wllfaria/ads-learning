@@ -16,3 +16,4 @@ class Problem:
         self.difficulty = difficulty
         self.url = url
         self.description = description
+
