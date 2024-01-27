@@ -83,3 +83,4 @@ Below is a list of the problems already solved in the [Leetcode](https://leetcod
 | [129](129-sum-root-to-leaf-numbers/) | Sum Root to Leaf Numbers | [Leetcode Link](https://leetcode.com/problems/sum-root-to-leaf-numbers) | Algorithms | Medium |
 | [173](173-binary-search-tree-iterator/) | Binary Search Tree Iterator | [Leetcode Link](https://leetcode.com/problems/binary-search-tree-iterator) | Algorithms | Medium |
 | [151](151-reverse-words-in-a-string/) | Reverse Words in a String | [Leetcode Link](https://leetcode.com/problems/reverse-words-in-a-string) | Algorithms | Medium |
+| [68](68-text-justification/) | Text Justification | [Leetcode Link](https://leetcode.com/problems/text-justification) | Algorithms | Hard |

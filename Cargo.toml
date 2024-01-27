@@ -5,4 +5,4 @@ edition = "2021"
 
 [[bin]]
 name = "algorithms"
-path = "./problems/leetcode/151/solution.rs"
+path = "./problems/leetcode/68/solution.rs"
