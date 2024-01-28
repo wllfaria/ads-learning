@@ -85,3 +85,4 @@ Below is a list of the problems already solved in the [Leetcode](https://leetcod
 | [151](151-reverse-words-in-a-string/) | Reverse Words in a String | [Leetcode Link](https://leetcode.com/problems/reverse-words-in-a-string) | Algorithms | Medium |
 | [68](68-text-justification/) | Text Justification | [Leetcode Link](https://leetcode.com/problems/text-justification) | Algorithms | Hard |
 | [2138](2138-divide-a-string-into-groups-of-size-k/) | Divide a String Into Groups of Size k | [Leetcode Link](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) | Algorithms | Easy |
+| [1592](1592-rearrange-spaces-between-words/) | Rearrange Spaces Between Words | [Leetcode Link](https://leetcode.com/problems/rearrange-spaces-between-words) | Algorithms | Easy |
